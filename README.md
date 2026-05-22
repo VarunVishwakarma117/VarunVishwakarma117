@@ -2,7 +2,7 @@
 <img src="https://github.com/VarunSharma117/VarunSharma117/blob/main/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 
-# Hi there, I'm Varun Sharma
+# Hi there, I'm Varun Vishwakarma
 [![LinkedIn Follow](https://img.shields.io/badge/Linkedin-connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=varun-vishwakarma-949b73182&trk=public_profile_top-card-primary-button-join-to-connect)
 [![Github Follow](https://img.shields.io/badge/Github-follow-blue?style=for-the-badge&logo=linkedin)](https://github.com/login?return_to=%2FVarunSharma117)
 
