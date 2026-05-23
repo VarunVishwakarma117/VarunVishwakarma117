@@ -83,13 +83,17 @@ public class VarunVishwakarma extends SoftwareEngineer {
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=VarunVishwakarma117&theme=default&background=ffffff&hide_border=false" width="60%" />
 </div>
-&nbsp
+<br>
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,javascript,spring,hibernate,react,aws,kubernetes,docker,github,kafka,mysql,redis,firebase,maven,gradle,git,jira,linux,androidstudio&perline=10" />
 </div>
-&nbsp
+<br>
+<hr/>
+<br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VarunVishwakarma117&theme=flat&no-frame=false&row=1&column=6&margin-w=10" width="100%" />
 </div>
-
+<br>
+<hr/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
